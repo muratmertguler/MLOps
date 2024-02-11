@@ -1,2 +1,1 @@
-A Bitcoin forecast project for self-improvement in the MLOps field.
-
+A Bitcoin forecasting project for self-improvement in the fields of MLOps and Data Science.
