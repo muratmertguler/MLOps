@@ -1,17 +1,12 @@
 import psycopg2
-from psycopg2 import sql
 from sqlalchemy import create_engine
-import etl # Extract, Transform, Load
 import pandas as pd
 
-df = pd.read_csv("/home/mert/Desktop/MLOPS/bitcoin-forecast/data/raw/btc_usd.csv")
+def write_data():
+    df = pd.read_csv("/home/mert/Desktop/MLOPS/bitcoin-forecast/data/raw/btc_usd.csv")
+    engine = create_engine('postgresql://postgres:5052@localhost/finance')
+    df.to_sql('btc_usd', con=engine, if_exists='replace', index=False)
+    engine.dispose()
 
-# PostgreSQL connection
-engine = create_engine('postgresql://postgres:5052@localhost/finance')
 
-# DataFrame is written in PostgreSQL database
-df.to_sql('btc_usd', con=engine, if_exists='replace', index=False)
-
-# close to connetion
-engine.dispose()
-
+write_data()
