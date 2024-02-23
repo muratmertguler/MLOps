@@ -19,13 +19,10 @@ request_params = CryptoBarsRequest(
                         start= start_date,
                         end=datetime(now.year, now.month, now.day))
 
-# Retrieve daily bars for Bitcoin in a DataFrame and printing it
 btc_bars = client.get_crypto_bars(request_params)
 
-# Convert to dataframe
 df = btc_bars.df 
 
-# date formatting
 today = datetime.now()
 yesterday = today - timedelta(days=1)
 
