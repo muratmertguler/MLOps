@@ -6,6 +6,8 @@ from alpaca.data.requests import CryptoBarsRequest
 from alpaca.data.timeframe import TimeFrame
 from datetime import datetime, timedelta
 import pandas as pd
+from src.utils import relative_paths, raw_data_logs
+
 
 # No keys required for crypto data
 client = CryptoHistoricalDataClient()
@@ -36,5 +38,6 @@ for i in colums_name:
     btc_added_name.append(str("btc_" + i))
 
 df.columns = btc_added_name
+df.to_csv(relative_paths.raw_data, index=False)
 
-df.to_csv("/home/mert/Desktop/MLOPS/bitcoin-forecast/data/raw/btc_usd.csv", index=False)
+raw_data_logs.save_raw_data_logs()

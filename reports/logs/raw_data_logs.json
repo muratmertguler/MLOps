@@ -1,0 +1,24 @@
+{
+    "data save date": "2024-03-04 15:11:25",
+    "mean": {
+        "btc_open": 35435.077,
+        "btc_high": 36395.989,
+        "btc_low": 34406.58,
+        "btc_close": 35462.461,
+        "btc_volume": 2866.746,
+        "btc_trade_count": 64786.245,
+        "btc_vwap": 35448.085
+    },
+    "std": {
+        "btc_open": 12554.096,
+        "btc_high": 13053.463,
+        "btc_low": 12164.512,
+        "btc_close": 12581.112,
+        "btc_volume": 3854.136,
+        "btc_trade_count": 67787.802,
+        "btc_vwap": 12546.607
+    },
+    "lenght": 1158,
+    "start date": "2021-01-01",
+    "end date": "2024-03-03"
+}
