@@ -18,3 +18,5 @@ It involves developing a machine learning model to predict Bitcoin prices and de
   - Docker
   - Kubernetes
   - Git
+- Model Tracking and Versioning
+    MLFlow
