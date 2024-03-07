@@ -1,0 +1,16 @@
+artifact_uri: file:///home/mert/Desktop/MLOPS/bitcoin-forecast/notebooks/mlruns/0/2e950a0596094e96a8f52e9f574a0dd5/artifacts
+deleted_time: 1709815300269
+end_time: 1709814151155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2e950a0596094e96a8f52e9f574a0dd5
+run_name: gradient_boosting
+run_uuid: 2e950a0596094e96a8f52e9f574a0dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709814149654
+status: 3
+tags: []
+user_id: mert

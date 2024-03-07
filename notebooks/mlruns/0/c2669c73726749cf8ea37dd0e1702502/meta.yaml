@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mert/Desktop/MLOPS/bitcoin-forecast/notebooks/mlruns/0/c2669c73726749cf8ea37dd0e1702502/artifacts
+end_time: 1709815285249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2669c73726749cf8ea37dd0e1702502
+run_name: linear_regression
+run_uuid: c2669c73726749cf8ea37dd0e1702502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709815283929
+status: 3
+tags: []
+user_id: mert

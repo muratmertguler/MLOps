@@ -1,0 +1,16 @@
+artifact_uri: file:///home/mert/Desktop/MLOPS/bitcoin-forecast/notebooks/mlruns/0/da56239ad4164fefa65f04650a6356b1/artifacts
+deleted_time: 1709813600658
+end_time: 1709810538832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: da56239ad4164fefa65f04650a6356b1
+run_name: ambitious-pig-89
+run_uuid: da56239ad4164fefa65f04650a6356b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709810536680
+status: 3
+tags: []
+user_id: mert

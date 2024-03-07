@@ -1,0 +1,16 @@
+artifact_uri: file:///home/mert/Desktop/MLOPS/bitcoin-forecast/notebooks/mlruns/0/b9656b1192d64483bb30ecfbbd53f6a9/artifacts
+deleted_time: 1709813600658
+end_time: 1709810231543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b9656b1192d64483bb30ecfbbd53f6a9
+run_name: secretive-whale-836
+run_uuid: b9656b1192d64483bb30ecfbbd53f6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709810228073
+status: 3
+tags: []
+user_id: mert

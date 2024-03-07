@@ -1,0 +1,16 @@
+artifact_uri: file:///home/mert/Desktop/MLOPS/bitcoin-forecast/notebooks/mlruns/0/8bd7952b119f485da47be2dbe6b283aa/artifacts
+deleted_time: 1709813600658
+end_time: 1709810503396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8bd7952b119f485da47be2dbe6b283aa
+run_name: capricious-jay-527
+run_uuid: 8bd7952b119f485da47be2dbe6b283aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709810501893
+status: 3
+tags: []
+user_id: mert

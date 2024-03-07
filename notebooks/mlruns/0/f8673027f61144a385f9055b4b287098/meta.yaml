@@ -1,0 +1,16 @@
+artifact_uri: file:///home/mert/Desktop/MLOPS/bitcoin-forecast/notebooks/mlruns/0/f8673027f61144a385f9055b4b287098/artifacts
+deleted_time: 1709813600652
+end_time: 1709811467421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f8673027f61144a385f9055b4b287098
+run_name: linear_regression
+run_uuid: f8673027f61144a385f9055b4b287098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709811466029
+status: 3
+tags: []
+user_id: mert
